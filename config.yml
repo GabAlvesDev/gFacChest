@@ -1,0 +1,8 @@
+Config:
+#delay em minutos para salvar os baús das facções
+  Auto-Save: 1
+#Modo de compra se for 1 = PlayerPoints, se for 2 = Vault <money>, se for 3 = Vault && Money o player vai poder comprar com os dois!
+  Modo_Compra: 3
+#Custo para a facção comprar o baú lembrando que precisa ser o líder para comprar o baú,
+  Custo_De_Compra_Cash: 9000
+  Custo_De_Compra_Money: 90000

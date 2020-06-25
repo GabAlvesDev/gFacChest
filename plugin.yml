@@ -1,0 +1,5 @@
+name: gFacChest
+main: me.gabriel.gfacchest.Main
+version: 1.0
+author: Gab_Alves
+depend: [Vault, PlayerPoints]
